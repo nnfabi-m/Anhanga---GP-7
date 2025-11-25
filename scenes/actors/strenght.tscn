@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://7ab21hxmip1j"]
+
+[ext_resource type="Texture2D" uid="uid://dxxm5612aahh6" path="res://assets/sprites/energy_bar.png" id="1_dj0yt"]
+
+[node name="strenght" type="Node2D"]
+
+[node name="AnimatedSprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_dj0yt")
+region_enabled = true
+region_rect = Rect2(38, 40, 24, 28)

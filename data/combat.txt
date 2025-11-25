@@ -1,0 +1,4 @@
+# id;type;max_hp;attack
+PLAYER;player;5;1
+ENEMY1;enemy;3;1
+BOSS1;enemy;10;2

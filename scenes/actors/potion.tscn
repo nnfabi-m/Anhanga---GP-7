@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://ck0iqwhwto2sy"]
+
+[ext_resource type="Texture2D" uid="uid://cpq2qqqwolsio" path="res://assets/sprites/Potions - Full, Corked.png" id="1_8lvo8"]
+
+[node name="Potion" type="Node2D"]
+
+[node name="AnimatedSprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_8lvo8")
+region_enabled = true
+region_rect = Rect2(81, 173, 14, 19)
